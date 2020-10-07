@@ -4,9 +4,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":1128,"sizeSlug":"large","className":"is-style-default"} -->
+<center>
 <figure class="wp-block-image size-large is-style-default"><img class="wp-image-1128" src="https://thecodezine.com/wp-content/uploads/2020/08/sudoku.png" alt="" />
 <figcaption>Sudoku Pygame</figcaption>
 </figure>
+  </center>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
